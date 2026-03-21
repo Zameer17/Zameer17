@@ -220,10 +220,6 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zameer17&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zameer17&theme=react-dark&bg_color=0d1117&color=FF6B6B&line=FFC300&point=56CCF2&area=true&hide_border=true" />
 
 </div>
