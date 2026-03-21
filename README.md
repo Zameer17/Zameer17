@@ -195,15 +195,18 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 | 🚀 Project | 🛠️ Tech Stack | 📝 Description |
 |:---|:---:|:---|
-| [**📱 Smart To-Do Tracker**](https://github.com/Zameer17/Smart-Todo-Tracker) | `Kotlin` `Android` `SQLite` | Android app — task management, subject-wise tracking, study streaks, session logging & chatbot |
-| [**🏥 Hospital Operations Dashboard**](https://github.com/Zameer17/Hospital-Operations-Dashboard) | `Power BI` `DAX` `Excel` | Full BI dashboard — revenue, patient flow, bed occupancy & staff efficiency KPIs |
-| [**🚦 Traffic Congestion Predictor**](https://github.com/Zameer17/Traffic-Congestion-Predictor) | `Python` `ML` `Pandas` | Hackathon — predicts traffic congestion from real traffic data using ML |
-| [**🏨 Hotel Booking System**](https://github.com/Zameer17/Hotel-Booking-System) | `Java` `JDBC` `MySQL` | Full hotel booking system with DB integration & user interface |
-| [**📊 Excel Analytics Dashboard**](https://github.com/Zameer17/Excel-Dashboard) | `Excel` `openpyxl` `Python` | Multi-sheet dark-themed dashboard with KPI cards & dynamic charts |
+| [**📱 Smart To-Do Tracker**](https://www.linkedin.com/posts/zameer-shaikh-1a9482345_androiddevelopment-kotlin-sqlite-ugcPost-7438851030152306688-q3Rk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZjlpEBxsXykr06H2pbjVon8Wl6bmPUnGA) | `Kotlin` `Android` `SQLite` | Android app — task management, subject-wise tracking, study streaks, session logging & chatbot 🔗 LinkedIn Post |
+| [**📊 Data Analytics Dashboards**](https://github.com/Zameer17/Data-Analytics-Dashboards) | `Power BI` `DAX` `Excel` `Python` `Tableau` | Collection of analytics dashboards — Excel, Power BI, Tableau & Python visualizations |
+| [**🚦 Traffic App**](https://github.com/Zameer17/traffic-app) | `Python` `ML` `Pandas` | Hackathon — predicts traffic congestion from real-time traffic data using ML |
+| [**🏨 Hotel Booking & Management System**](https://www.linkedin.com/posts/zameer-shaikh-1a9482345_java-jdbc-mysql-ugcPost-7402972423270092800-lKlZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZjlpEBxsXykr06H2pbjVon8Wl6bmPUnGA) | `Java` `JDBC` `MySQL` | Full hotel booking system with DB integration & user interface 🔗 LinkedIn Post |
+| [**🤖 Data Analytics & ML**](https://github.com/Zameer17/Data-Analytics-Machine-Learning) | `Python` `Scikit-Learn` `Pandas` `ML` | End-to-end ML workflows — feature engineering, model building & evaluation |
+| [**🖼️ Image Resizer App**](https://github.com/Zameer17/Image-Resizer-App) | `Python` `Streamlit` | Website to resize images quickly with a clean UI |
+| [**🌤️ Weatherly Forecaster**](https://github.com/Zameer17/Weatherly-Forecaster) | `Python` `Streamlit` `API` | Weather forecast  web-app using Python, Streamlit & live weather API |
+| [**🎌 Otaku Verse**](https://github.com/Zameer17/Otaku-Verse) | `Web Development` `HTML5` `CSS` `Java Script` | Semester-Wise Notes Web-App — browse, search & explore your academic notes |
 
 </div>
 
-> 💡 *Click on any project name to visit the repo — update links to match your actual repo names!*
+> 💡 *Click on any project name to visit the repository or LinkedIn Post!!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -268,24 +271,6 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zameer17&theme=radical&utcOffset=5.5" />
 
 <br/><br/>
-
-### 🧮 Scorecard
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║           🏅  GITHUB SCORECARD — Zameer17                 ║
-╠═══════════════════════════════════════════════════════════╣
-║  📦  Repositories     →  Multiple active projects        ║
-║  ⭐  Stars Earned     →  Growing with every release      ║
-║  🔁  Total Commits    →  Consistent contributions        ║
-║  🔀  Pull Requests    →  Collaborative mindset           ║
-║  🐛  Issues Raised    →  Active problem solver           ║
-║  🔥  Longest Streak   →  Regularly maintained            ║
-║  🌍  Top Languages    →  Java · Kotlin · Python · C++    ║
-║  🏆  Trophies         →  Multi-category achiever         ║
-║  📊  Profile Summary  →  See cards above ↑              ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 </div>
 
