@@ -324,7 +324,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
   </picture>
 </div>
 
-> ⚙️ *Enable the snake by adding the GitHub Actions workflow — see setup instructions!*
+> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
