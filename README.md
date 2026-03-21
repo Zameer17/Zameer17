@@ -218,7 +218,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zameer17&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zameer17&theme=react-dark&bg_color=0d1117&color=FF6B6B&line=FFC300&point=56CCF2&area=true&hide_border=true" />
 
