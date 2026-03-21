@@ -222,7 +222,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zameer17&theme=radical&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFC300&fire=FF8E53&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFC300&sideLabels=FF6B6B&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Zameer17&theme=radical&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFC300&fire=FF8E53&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFC300&sideLabels=FF6B6B&dates=ffffff" />
 
 <br/><br/>
 
