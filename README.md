@@ -222,8 +222,6 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 <br/><br/>
 
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Zameer17&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 <br/><br/>
@@ -235,7 +233,6 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
-
 ## 📈 GitHub Analytics & Scorecard
 
 <div align="center">
