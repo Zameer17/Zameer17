@@ -222,8 +222,6 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Zameer17&theme=radical&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFC300&fire=FF8E53&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFC300&sideLabels=FF6B6B&dates=ffffff" />
-
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Zameer17&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
