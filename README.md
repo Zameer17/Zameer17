@@ -206,6 +206,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 | [**🖼️ Image Resizer App**](https://github.com/Zameer17/Image-Resizer-App) | `Python` `Streamlit` | Website to resize images quickly with a clean UI |
 | [**🌤️ Weatherly Forecaster**](https://github.com/Zameer17/Weatherly-Forecaster) | `Python` `Streamlit` `API` | Weather forecast  web-app using Python, Streamlit & live weather API |
 | [**🎌 Otaku Verse**](https://github.com/Zameer17/Otaku-Verse) | `Web Development` `HTML5` `CSS` `Java Script` | Semester-Wise Notes Web-App — browse, search & explore your academic notes |
+| [**🔍 Case Study**](https://github.com/Zameer17/Case-Study) | `Python` `Power BI` `Excel` `ML` `EDA` | Real-world data case studies — problem analysis, EDA, insights & dashboards |
 
 </div>
 
