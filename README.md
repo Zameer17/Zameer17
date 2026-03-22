@@ -109,11 +109,14 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔌_IoT%20Fundamentals-Architecture%20%26%20Concepts-008000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/📶_MQTT%20Protocol-IoT%20Communication-56CCF2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐_Sensor%20Networks-Embedded%20Systems-FFC300?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔒_IoT%20Security-Edge%20Computing-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Cloud%20Monitoring-IoT%20Dashboards-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊_ThingSpeak-Cloud%20Analytics-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔒_IoT%20Security-Edge%20Computing-6BCB77?style=for-the-badge" />
 </p>
 
 ---
