@@ -38,9 +38,9 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 - 🔭 &nbsp; Currently working on **Android apps** and **Data Analytics** projects
 - 🌱 &nbsp; Exploring **AI/ML**, **Big Data**, and **Cloud** technologies
-- 💼 &nbsp; Completed a **Data Science & Analytics internship** at Syntech Technologies
-- 🏆 &nbsp; Built a **Hospital Operations Power BI Dashboard** & **Smart To-Do Android App**
-- 🏅 &nbsp; Hackathon participant — **Traffic Congestion Predictor** using Python & ML
+- 💼 &nbsp; Completed a **Data Science & Analytics internship** at Syntech Technologies & CDPL
+- 🏆 &nbsp; Built a **Smart To-Do Android App**
+- 🏅 &nbsp; Hackathon participant — **Traffic Congestion Predictor** using Python & ML got 1st Place
 - 💬 &nbsp; Ask me about **Java, Kotlin, Python, Data Analytics, or Android Dev!**
 - ⚡ &nbsp; Fun fact: I can debug code *and* predict traffic congestion at the same time 😄
 
