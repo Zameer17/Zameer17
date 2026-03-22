@@ -336,7 +336,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zameer%20Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zameer-shaikh-1a9482345)
 [![GitHub](https://img.shields.io/badge/GitHub-Zameer17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zameer17)
-
+[![Discord](https://img.shields.io/badge/Discord-zameer45-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zameer45)
 <br/>
 
 > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
