@@ -99,7 +99,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 
 | 🏅 Project | 🛠️ Tech | 📝 Description |
 |:---|:---:|:---|
-| [**🚦 Traffic Congestion Predictor**](https://github.com/Zameer17/Traffic-Congestion-Predictor) | `Python` `ML` `Pandas` `Seaborn` | Analyzes real traffic data, engineers features & predicts congestion patterns |
+| [**🚦 Traffic Congestion Predictor**](https://github.com/Zameer17/traffic-app)) | `Python` `ML` `Pandas` `Seaborn` | Analyzes real traffic data, engineers features & predicts congestion patterns |
 
 </div>
 
@@ -200,7 +200,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 |:---|:---:|:---|
 | [**📱 Smart To-Do Tracker**](https://www.linkedin.com/posts/zameer-shaikh-1a9482345_androiddevelopment-kotlin-sqlite-ugcPost-7438851030152306688-q3Rk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZjlpEBxsXykr06H2pbjVon8Wl6bmPUnGA) | `Kotlin` `Android` `SQLite` | Android app — task management, subject-wise tracking, study streaks, session logging & chatbot 🔗 LinkedIn Post |
 | [**📊 Data Analytics Dashboards**](https://github.com/Zameer17/Data-Analytics-Dashboards) | `Power BI` `DAX` `Excel` `Python` `Tableau` | Collection of analytics dashboards — Excel, Power BI, Tableau & Python visualizations |
-| [**🚦 Traffic App**](https://github.com/Zameer17/traffic-app) | `Python` `ML` `Pandas` | Hackathon — predicts traffic congestion from real-time traffic data using ML |
+| [**🚦 Traffic Congestion Predictor**](https://github.com/Zameer17/traffic-app) | `Python` `ML` `Pandas` | Hackathon — predicts traffic congestion from real-time traffic data using ML |
 | [**🏨 Hotel Booking & Management System**](https://www.linkedin.com/posts/zameer-shaikh-1a9482345_java-jdbc-mysql-ugcPost-7402972423270092800-lKlZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFZjlpEBxsXykr06H2pbjVon8Wl6bmPUnGA) | `Java` `JDBC` `MySQL` | Full hotel booking system with DB integration & user interface 🔗 LinkedIn Post |
 | [**🤖 Data Analytics & ML**](https://github.com/Zameer17/Data-Analytics-Machine-Learning) | `Python` `Scikit-Learn` `Pandas` `ML` | End-to-end ML workflows — feature engineering, model building & evaluation |
 | [**🖼️ Image Resizer App**](https://github.com/Zameer17/Image-Resizer-App) | `Python` `Streamlit` | Website to resize images quickly with a clean UI |
