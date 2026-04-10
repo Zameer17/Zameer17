@@ -15,7 +15,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Zameer17&label=Profile%20Views&color=FF6B6B&style=for-the-badge)](https://github.com/Zameer17)
 [![GitHub followers](https://img.shields.io/github/followers/Zameer17?label=Followers&style=for-the-badge&color=FFC300&labelColor=1a1a2e)](https://github.com/Zameer17?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zameer-shaikh-1a9482345)
-
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%E2%86%92%20Visit-black?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFD700)](https://my-portfolio-gold-zeta-99.vercel.app/)
 </div>
 
 ---
