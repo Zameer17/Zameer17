@@ -205,7 +205,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 | [**🤖 Data Analytics & ML**](https://github.com/Zameer17/Data-Analytics-Machine-Learning) | `Python` `Scikit-Learn` `Pandas` `ML` | End-to-end ML workflows — feature engineering, model building & evaluation |
 | [**🖼️ Image Resizer App**](https://github.com/Zameer17/Image-Resizer-App) | `Python` `Streamlit` | Website to resize images quickly with a clean UI |
 | [**🌤️ Weatherly Forecaster**](https://github.com/Zameer17/Weatherly-Forecaster) | `Python` `Streamlit` `API` | Weather forecast  web-app using Python, Streamlit & live weather API |
-| [**🎌 Otaku Verse**](otaku-verse-ashen.vercel.app/) | `Web Development` `HTML5` `CSS` `Java Script` | Semester-Wise Notes Web-App — browse, search & explore your academic notes |
+| [**🎌 Otaku Verse**](https://otaku-verse-ashen.vercel.app/) | `Web Development` `HTML5` `CSS` `Java Script` | Semester-Wise Notes Web-App — browse, search & explore your academic notes |
 | [**🔍 Case Study**](https://github.com/Zameer17/Case-Study) | `Python` `Power BI` `Excel` `ML` `EDA` | Real-world data case studies — problem analysis, EDA, insights & dashboards |
 | [**🔥 Smart Green Zone Guardian**](https://github.com/Zameer17/Smart-Green-Zone-Guardian) | `ESP32` `IoT` `Embedded C/C++` `Cloud` `Sensors` | Smart environmental protection system for early fire detection, illegal logging alerts, and 24×7 real-time forest monitoring 🌲🤖 |
 </div>
