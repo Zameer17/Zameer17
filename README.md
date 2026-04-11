@@ -32,7 +32,6 @@ Currently  : Building cool Android apps & dashboards
 Learning   : AI/ML, Big Data, Cloud Technologies
 Passion    : Turning data into insights & ideas into apps
 LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
-Portfolio  : https://my-portfolio-gold-zeta-99.vercel.app/
 ```
 
 <br/>
