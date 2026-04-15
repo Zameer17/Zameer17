@@ -208,6 +208,7 @@ LinkedIn   : linkedin.com/in/zameer-shaikh-1a9482345
 | [**🎌 Otaku Verse**](https://otaku-verse-ashen.vercel.app/) | `Web Development` `HTML5` `CSS` `Java Script` | Semester-Wise Notes Web-App — browse, search & explore your academic notes (Currently Live 🚀)|
 | [**🔍 Case Study**](https://github.com/Zameer17/Case-Study) | `Python` `Power BI` `Excel` `ML` `EDA` | Real-world data case studies — problem analysis, EDA, insights & dashboards |
 | [**🔥 Smart Green Zone Guardian**](https://github.com/Zameer17/Smart-Green-Zone-Guardian) | `ESP32` `IoT` `Embedded C/C++` `Cloud` `Sensors` | Smart environmental protection system for early fire detection, illegal logging alerts, and 24×7 real-time forest monitoring 🌲🤖 |
+| [**🤖 VENOM AI**](https://github.com/Zameer17/Venom-AI) | `Electron` `React` `Python` `Ollama` `LLM` | Fully offline desktop AI assistant with voice interaction, desktop automation, local LLM workflows, and a vintage terminal-inspired UI 📺⚡ |
 </div>
 
 > 💡 *Click on any project name to visit the repository or LinkedIn Post!!*
